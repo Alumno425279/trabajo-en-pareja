@@ -1,7 +1,8 @@
 * {
-    afecta a todo el html 
+    text-align: left;
+    background-color:#f5f5dc;
 }
 
 h1,h2 { 
-    afecta a dos elementos 
+    color:black;
 }
