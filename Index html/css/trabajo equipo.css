@@ -32,7 +32,6 @@ h1,h2 {
     margin-left: 7cm;
     text-align: left ;
     background: url(../img/formulario.webp);
-    background: url(../formulario.webp);
     background-size: cover;
   }
 #entradas{
@@ -44,7 +43,6 @@ h1,h2 {
     float: left;
     padding-left: 10px;
     background:url(../img/ensalada.jpeg);
-    background:url(../ensalada.jpeg);
     background-size: cover;
 }
 #burguer{
@@ -55,7 +53,7 @@ h1,h2 {
     float: right;
     margin-right: 1cm;
     padding-left: 15px;
-    background: url(../hamburguesa.jpeg);
+    background: url(../img/hamburguesa.jpeg);
     background-size: cover;
 }
  p{
