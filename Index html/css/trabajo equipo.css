@@ -99,6 +99,8 @@ select {
     clear:left;  
     margin: 1cm;
     width: 755px;
+    background: url(../img/pie\ 2.jpeg);
+    background-size: cover;
   }
 img {
   position: absolute;
