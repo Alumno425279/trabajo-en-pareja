@@ -2,12 +2,12 @@
     text-align: left;   
     font-family: 'arial';
     cursor: pointer;  
-    font-weight:bold;
-    font-size: 17px;color: #000000;  
+    font-weight:700;
 }
 
 body{ 
     background-color:#ff0000;
+    
    }
 h1,h2 { 
     color:black;
@@ -33,10 +33,11 @@ h1,h2 {
     text-align: left ;
     background: url(../img/formulario.webp);
     background-size: cover;
+    
   }
 #entradas{
     width: 350px;
-    height: 900px;
+    height: 930px;
     border: 2px solid black;
     background-color: beige;
     margin-left: 1cm;
@@ -47,18 +48,19 @@ h1,h2 {
 }
 #burguer{
     width: 350px;
-    height: 900px;
+    height: 930px;
     border: 2px solid black;
     background-color: beige;
     float: right;
     margin-right: 1cm;
     padding-left: 15px;
-    background: url(../img/hamburguesa.jpeg);
+    background: url(../img/hamburguesa\ 5.jpeg);
     background-size: cover;
+   
 }
  p{
     margin-top: 3px;
-    margin-left: 6px;
+    margin: left 5px;;
     margin-bottom:2px;
     padding-left: 10;
  }
@@ -83,7 +85,13 @@ ul,li {
     text-align:left;
     border:1px solid #000000;
 }
-    
+  
+select {
+  margin-top: 3px;
+  margin: left 5px;;
+  margin-bottom:2px;
+  padding-left: 10;
+}
   #pie {
     padding:10px;
     color:black;
@@ -92,8 +100,15 @@ ul,li {
     margin: 1cm;
     width: 755px;
   }
+img {
+  position: absolute;
+  left: 50px;
+  top: 0px;
+  z-index: -1;
+  margin-top: 3cm;
+}
 
-       
+
       
  
   
