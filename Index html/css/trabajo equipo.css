@@ -32,6 +32,7 @@ h1,h2 {
     margin-left: 7cm;
     text-align: left ;
     background: url(../img/formulario.webp);
+    background: url(../formulario.webp);
     background-size: cover;
   }
 #entradas{
@@ -42,7 +43,11 @@ h1,h2 {
     margin-left: 1cm;
     float: left;
     padding-left: 10px;
+<<<<<<< HEAD
     background:url(../img/ensalada.jpeg);
+=======
+    background:url(../ensalada.jpeg);
+>>>>>>> 791de1d7cd93c2ef93b604576febf90ab6ff69f0
     background-size: cover;
 }
 #burguer{
@@ -53,7 +58,11 @@ h1,h2 {
     float: right;
     margin-right: 1cm;
     padding-left: 15px;
+<<<<<<< HEAD
     background: url(../img/hamburguesa.jpeg);
+=======
+    background: url(../hamburguesa.jpeg);
+>>>>>>> 791de1d7cd93c2ef93b604576febf90ab6ff69f0
     background-size: cover;
 }
  p{
@@ -94,6 +103,9 @@ ul,li {
   }
 
        
+<<<<<<< HEAD
       
  
   
+=======
+>>>>>>> 791de1d7cd93c2ef93b604576febf90ab6ff69f0
