@@ -6,8 +6,8 @@
 }
 
 body{ 
-    background-color:#ff0000;
-    
+    background:url(../img/background.jpeg);
+    background-size: cover;
    }
 h1,h2 { 
     color:black;
@@ -102,10 +102,9 @@ select {
   }
 img {
   position: absolute;
-  left: 50px;
-  top: 0px;
-  z-index: -1;
-  margin-top: 3cm;
+  left: 20px;
+  z-index: 1;
+  margin-top: 3.6cm;
 }
 
 
