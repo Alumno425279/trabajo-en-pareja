@@ -1,8 +1,96 @@
 * {
-    text-align: left;
-    background-color:#f5f5dc;
+    text-align: left;   
+    font-family: 'arial';
+    cursor: pointer;  
+    font-weight:bold;
+    font-size: 17px;color: #000000;  
 }
 
+body{ 
+    background-color:#ff0000;
+   }
 h1,h2 { 
     color:black;
+    text-align: center;
+    letter-spacing: 8px;
+    text-transform:capitalize;
+    padding-top: 5px;
+    left: 8px;
+  }
+
+#Portada{
+    width: 850px ;
+    height: 1370px ;
+    position: relative;
+    left: 2px;
+    top: 50px;
+    border-width:15px ;
+    border-style: groove;
+    border-color: #000000;
+    border-left-color: blue;
+    border-right-color:#7fff00;
+    margin-left: 7cm;
+    text-align: left ;
+    background: url(../formulario.webp);
+    background-size: cover;
+  }
+#entradas{
+    width: 350px;
+    height: 900px;
+    border: 2px solid black;
+    background-color: beige;
+    margin-left: 1cm;
+    float: left;
+    padding-left: 10px;
+    background:url(../ensalada.jpeg);
+    background-size: cover;
 }
+#burguer{
+    width: 350px;
+    height: 900px;
+    border: 2px solid black;
+    background-color: beige;
+    float: right;
+    margin-right: 1cm;
+    padding-left: 15px;
+    background: url(../hamburguesa.jpeg);
+    background-size: cover;
+}
+ p{
+    margin-top: 3px;
+    margin-left: 6px;
+    margin-bottom:2px;
+    padding-left: 10;
+ }
+
+ table {
+    border: 5px solid black ;
+    border-style:solid;
+    margin: auto;
+    background-color:beige;
+   }
+    
+  th, td{
+    padding: 20px;
+    border: 1px groove black;
+  }
+ul,li { 
+    display: block;
+    padding: 3px 20px;
+    width: 160px;
+    background-color: #f7f8e8;
+    border-bottom: 1px solid #eeeeee;
+    text-align:left;
+    border:1px solid #000000;
+}
+    
+  #pie {
+    padding:10px;
+    color:black;
+    background-color:#7fff00;
+    clear:left;  
+    margin: 1cm;
+    width: 755px;
+  }
+
+       
