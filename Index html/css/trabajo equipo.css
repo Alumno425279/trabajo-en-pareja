@@ -3,7 +3,7 @@
     font-family: 'arial';
     cursor: pointer;  
     font-weight:700;
-}
+  }
 
 body{ 
     background:url(../img/background.jpeg);
@@ -27,8 +27,8 @@ h1,h2 {
     border-width:15px ;
     border-style: groove;
     border-color: #000000;
-    border-left-color: blue;
-    border-right-color:#7fff00;
+    border-left-color:blue;
+    border-right-color:#0000ff;
     margin-left: 7cm;
     text-align: left ;
     background: url(../img/formulario.webp);
