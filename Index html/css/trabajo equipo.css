@@ -24,10 +24,9 @@ h1,h2 {
 
 #Portada{
     width: 850px ;
-    height: 1370px ;
-    position: relative;
+    height: 1410px ;
     left: 2px;
-    top: 50px;
+    top: 10px;
     border-width:15px ;
     border-style: groove;
     border-color: #000000;
@@ -106,10 +105,9 @@ select {
     background: url(../img/pie\ 2.jpeg);
     background-size: cover;
   }
-img {
-  left: 20px;
-  z-index: 1;
-  margin-top:0,5px;
+.img {
+ display: block;
+ margin-left: 7cm;
 }
 
 #entradas h2{
