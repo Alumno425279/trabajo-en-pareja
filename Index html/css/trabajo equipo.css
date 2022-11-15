@@ -5,6 +5,10 @@
     font-weight:700;
   }
 
+  .azul{
+    color:forestgreen;
+  }
+
 body{ 
     background:url(../img/background.jpeg);
     background-size: cover;
@@ -69,7 +73,7 @@ h1,h2 {
     border: 5px solid black ;
     border-style:solid;
     margin: auto;
-    background-color:beige;
+    background-color:white;
    }
     
   th, td{
@@ -103,13 +107,14 @@ select {
     background-size: cover;
   }
 img {
-  position: absolute;
   left: 20px;
   z-index: 1;
-  margin-top: 3.6cm;
+  margin-top:0,5px;
 }
 
-
+#entradas h2{
+  font-family: serif;
+}
 
 
 
