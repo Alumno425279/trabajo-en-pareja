@@ -26,13 +26,13 @@ h1,h2 {
     width: 850px ;
     height: 1410px ;
     left: 2px;
-    top: 10px;
     border-width:15px ;
     border-style: groove;
     border-color: #000000;
     border-left-color:blue;
     border-right-color:#0000ff;
-    margin-left: 7cm;
+    margin-left: 265px;
+    margin-top: 200px;
     text-align: left ;
     background: url(../img/formulario.webp);
     background-size: cover;
@@ -43,7 +43,7 @@ h1,h2 {
     height: 930px;
     border: 2px solid black;
     background-color: beige;
-    margin-left: 1cm;
+    margin-left: 20px;
     float: left;
     padding-left: 10px;
     background:url(../img/ensalada.jpeg);
@@ -55,7 +55,7 @@ h1,h2 {
     border: 2px solid black;
     background-color: beige;
     float: right;
-    margin-right: 1cm;
+    margin-right: 15px;
     padding-left: 15px;
     background: url(../img/hamburguesa\ 5.jpeg);
     background-size: cover;
@@ -100,15 +100,17 @@ select {
     color:black;
     background-color:#7fff00;
     clear:left;  
-    margin: 1cm;
+    margin: 40px;
     width: 755px;
     background: url(../img/pie\ 2.jpeg);
     background-size: cover;
   }
-.img {
- display: block;
- margin-left: 7cm;
-}
+  img {
+    position: absolute;
+    left: 272px;
+    z-index: -1; 
+  }
+
 
 #entradas h2{
   font-family: serif;
